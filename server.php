@@ -5,9 +5,9 @@ session_start();
 $username = "";
 $email    = "";
 $errors = array(); 
-
+mysql://:@/?reconnect=true	
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '', 'registration');
+$db = mysqli_connect('us-cdbr-iron-east-02.cleardb.net', 'b681ebca59d29e', 'c23ba0ec', 'heroku_0c186370eb4c109');
 
 // REGISTER USER
 if (isset($_POST['reg_user'])) {
