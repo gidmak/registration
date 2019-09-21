@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="header">
-  	<h1>HNGi6.0 TEAM-GREATS</h1><br/>
+  	<h1>HNGi6.0 Team-Greats</h1><br/>
 	<h3>Login</h3>
 	
   </div>
