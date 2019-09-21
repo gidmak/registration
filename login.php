@@ -2,12 +2,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Registration system PHP and MySQL</title>
+  <title>Login</title>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
   <div class="header">
-  	<h2>Login</h2>
+  	<h1>HNGi6.0 TEAM-GREATS</h1><br/>
+	<h3>Login</h3>
+	
   </div>
 	 
   <form method="post" action="login.php">
